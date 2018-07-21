@@ -2,15 +2,15 @@
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
-| Javascript  | 001              | 2                |
+| Javascript  | 002              | 3                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
-000 - Name Generator - [x]
+- [x] 000 - Name Generator - [x]
 
 001 - Heads or Tails. - [x]
 
-002 - Temperature converter.
+002 - Temperature converter. - [x]
 
 003 - Calculate your age in seconds.
 
