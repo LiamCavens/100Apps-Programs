@@ -2,7 +2,7 @@
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
-| Javascript  | 002              | 3                |
+| Javascript  | 003              | 4                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
@@ -12,7 +12,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [x] 002 - Temperature converter.
 
-- [] 003 - Calculate your age in seconds.
+- [x] 003 - Calculate your age in seconds.
 
 - [] 004 - Simple encryption / decryption.
 
