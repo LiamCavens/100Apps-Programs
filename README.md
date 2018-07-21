@@ -26,182 +26,182 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [] 009 - Pseudorandom quote generator.
 
-010 - Password generator.
+- [] 010 - Password generator.
 
-011 - Anatomically correct time from an internet clock.
+- [] 011 - Anatomically correct time from an internet clock.
 
-012 - Haiku generator.
+- [] 012 - Haiku generator.
 
-013 - Magic eight ball.
+- [] 013 - Magic eight ball.
 
-014 - Collatz Conjecture - http://en.wikipedia.org/wiki/Collatz_conjecture.
+- [] 014 - Collatz Conjecture - http://en.wikipedia.org/wiki/Collatz_conjecture.
 
-015 - Reverse a string.
+- [] 015 - Reverse a string.
 
-016 - Count the vowels in a string.
+- [] 016 - Count the vowels in a string.
 
-017 - Count the words in a string.
+- [] 017 - Count the words in a string.
 
-018 - Minesweeper.
+- [] 018 - Minesweeper.
 
-019 - Connect Four.
+- [] 019 - Connect Four.
 
-020 - BMI Calculator.
+- [] 020 - BMI Calculator.
 
-021 - 4chan Thread Downloader (images).
+- [] 021 - 4chan Thread Downloader (images).
 
-022 - Sudoku generator / solver.
+- [] 022 - Sudoku generator / solver.
 
-023 - Maze game and solution algorithm.
+- [] 023 - Maze game and solution algorithm.
 
-024 - Decimal to binary.
+- [] 024 - Decimal to binary.
 
-025 - Picross solver - http://en.wikipedia.org/wiki/Nonogram.
+- [] 025 - Picross solver - http://en.wikipedia.org/wiki/Nonogram.
 
-026 - Eulerian path - http://en.wikipedia.org/wiki/Eulerian_path.
+- [] 026 - Eulerian path - http://en.wikipedia.org/wiki/Eulerian_path.
 
-027 - Fibonacci sequence algorithm - http://en.wikipedia.org/wiki/Fibonacci_number.
+- [] 027 - Fibonacci sequence algorithm - http://en.wikipedia.org/wiki/Fibonacci_number.
 
-028 - Calcuate and print the factorial of 100.
-- [] 
-029 - Encryption connection. Implement all of the tools in the Rumkin collection: http://rumkin.com/tools/cipher.
+- [] 028 - Calcuate and print the factorial of 100.
 
-030 - Blackjack.
+- [] 029 - Encryption connection. Implement all of the tools in the Rumkin collection: http://rumkin.com/tools/cipher.
 
-031 - Text adventure game.
+- [] 030 - Blackjack.
 
-032 - Generate an ASCII image of a Christmas tree to a user given height.
+- [] 031 - Text adventure game.
 
-033 - Area calculator.
+- [] 032 - Generate an ASCII image of a Christmas tree to a user given height.
 
-034 - Benford's law - http://en.wikipedia.org/wiki/Benford's_law.
+- [] 033 - Area calculator.
 
-035 - Hunt the Wumpus - http://en.wikipedia.org/wiki/Hunt_the_Wumpus.
+- [] 034 - Benford's law - http://en.wikipedia.org/wiki/Benford's_law.
 
-036 - Static website generator.
+- [] 035 - Hunt the Wumpus - http://en.wikipedia.org/wiki/Hunt_the_Wumpus.
 
-037 - Crossword game.
+- [] 036 - Static website generator.
 
-038 - NTP Server - http://en.wikipedia.org/wiki/Network_Time_Protocol.
+- [] 037 - Crossword game.
 
-039 - Stronger password generator (With less chance of predicting an outcome).
+- [] 038 - NTP Server - http://en.wikipedia.org/wiki/Network_Time_Protocol.
 
-040 - Find the largest number in an array, and print its position.
+- [] 039 - Stronger password generator (With less chance of predicting an outcome).
 
-041 - ASCII analogue clock.
+- [] 040 - Find the largest number in an array, and print its position.
 
-042 - Dijkstra's algorithm - http://en.wikipedia.org/wiki/Dijkstra's_algorithm.
+- [] 041 - ASCII analogue clock.
 
-043 - Text to morse translator. Bonus points for generating the sound.
+- [] 042 - Dijkstra's algorithm - http://en.wikipedia.org/wiki/Dijkstra's_algorithm.
 
-044 - Noughts and Crosses / Tic Tac Toe / X and O.
+- [] 043 - Text to morse translator. Bonus points for generating the sound.
 
-045 - Snake game.
+- [] 044 - Noughts and Crosses / Tic Tac Toe / X and O.
 
-046 - FTP Client (TCP or UDP with ACK).
+- [] 045 - Snake game.
 
-047 - Telnet server.
+- [] 046 - FTP Client (TCP or UDP with ACK).
 
-048 - IMP Interpreter.
+- [] 047 - Telnet server.
 
-049 - Tetris.
+- [] 048 - IMP Interpreter.
 
-050 - Conway's Game of Life - http://en.wikipedia.org/wiki/Conway's_Game_of_Life.
+- [] 049 - Tetris.
 
-051 - Web Crawler.
+- [] 050 - Conway's Game of Life - http://en.wikipedia.org/wiki/Conway's_Game_of_Life.
 
-052 - Text Editor.
+- [] 051 - Web Crawler.
 
-053 - RSS feed creator.
+- [] 052 - Text Editor.
 
-054 - Evaluate binomial coefficients - http://en.wikipedia.org/wiki/Binomial_coefficient.
+- [] 053 - RSS feed creator.
 
-055 - Reverse Polish Notation (RPN) calculator - http://en.wikipedia.org/wiki/Reverse_Polish_notation.
+- [] 054 - Evaluate binomial coefficients - http://en.wikipedia.org/wiki/Binomial_coefficient.
 
-056 - Output the Mandlebrot Set in ASCII - http://en.wikipedia.org/wiki/Mandelbrot_set.
+- [] 055 - Reverse Polish Notation (RPN) calculator - http://en.wikipedia.org/wiki/Reverse_Polish_notation.
 
-057 - Sorting algorithm.
+- [] 056 - Output the Mandlebrot Set in ASCII - http://en.wikipedia.org/wiki/Mandelbrot_set.
 
-058 - Convert Markup to HTML.
+- [] 057 - Sorting algorithm.
 
-059 - The N Queens Problem - http://en.wikipedia.org/wiki/Eight_queens_puzzle.
+- [] 058 - Convert Markup to HTML.
 
-060 - Details Validator using Regular Expressions. Validate phone numbers, emails - http://en.wikipedia.org/wiki/Regular_expression.
+- [] 059 - The N Queens Problem - http://en.wikipedia.org/wiki/Eight_queens_puzzle.
 
-061 - Linked list - http://en.wikipedia.org/wiki/Linked_list.
+- [] 060 - Details Validator using Regular Expressions. Validate phone numbers, emails - http://en.wikipedia.org/wiki/Regular_expression.
 
-062 - Mastermind - http://en.wikipedia.org/wiki/Mastermind_(board_game).
+- [] 061 - Linked list - http://en.wikipedia.org/wiki/Linked_list.
 
-063 - Random image generator.
+- [] 062 - Mastermind - http://en.wikipedia.org/wiki/Mastermind_(board_game).
 
-064 - Last.FM Scrobbler - http://www.last.fm/home.
+- [] 063 - Random image generator.
 
-065 - Klingon Translator.
+- [] 064 - Last.FM Scrobbler - http://www.last.fm/home.
 
-066 - Prime number generator using a Sieve - http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes.
+- [] 065 - Klingon Translator.
 
-067 - Markov chain - http://en.wikipedia.org/wiki/Markov_chain.
+- [] 066 - Prime number generator using a Sieve - http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes.
 
-068 - Graphical digital clock (GUI).
+- [] 067 - Markov chain - http://en.wikipedia.org/wiki/Markov_chain.
 
-069 - Oil spill game.
+- [] 068 - Graphical digital clock (GUI).
 
-070 - Algorithm to calculate triangle numbers - http://en.wikipedia.org/wiki/Triangular_number.
+- [] 069 - Oil spill game.
 
-071 - Calculate a user's typing speed.
+- [] 070 - Algorithm to calculate triangle numbers - http://en.wikipedia.org/wiki/Triangular_number.
 
-072 - Name art in ASCII.
+- [] 071 - Calculate a user's typing speed.
 
-073 - Towers of Hanoi - http://en.wikipedia.org/wiki/Towers_of_Hanoi.
+- [] 072 - Name art in ASCII.
 
-074 - Quine - http://en.wikipedia.org/wiki/Quine_(computing).
+- [] 073 - Towers of Hanoi - http://en.wikipedia.org/wiki/Towers_of_Hanoi.
 
-075 - IRC Bot.
+- [] 074 - Quine - http://en.wikipedia.org/wiki/Quine_(computing).
 
-076 - Brainfuck Interpreter - http://en.wikipedia.org/wiki/Brainfuck.
+- [] 075 - IRC Bot.
 
-077 - Sorting algorithm audibilization (warning, noises) and/or visualization - http://www.youtube.com/watch?v=kPRA0W1kECg.
+- [] 076 - Brainfuck Interpreter - http://en.wikipedia.org/wiki/Brainfuck.
 
-078 - Chip-8 emulator - http://en.wikipedia.org/wiki/CHIP-8.
+- [] 077 - Sorting algorithm audibilization (warning, noises) and/or visualization - http://www.youtube.com/watch?v=kPRA- [] 0W1kECg.
 
-079 - Geekcode generator (3.12) - http://www.geekcode.com/geek.html.
+- [] 078 - Chip-8 emulator - http://en.wikipedia.org/wiki/CHIP-8.
 
-080 - Define, translate, and rotate a shape with an arbitrary amont of vertices.
+- [] 079 - Geekcode generator (3.12) - http://www.geekcode.com/geek.html.
 
-081 - Pong with variable vectors.
+- [] 080 - Define, translate, and rotate a shape with an arbitrary amont of vertices.
 
-082 - Battleships with an artificial intelligence (NPC) opponent.
+- [] 081 - Pong with variable vectors.
 
-083 - Simple roguelike. Mega chapeau for multiplayer over LAN..
+- [] 082 - Battleships with an artificial intelligence (NPC) opponent.
 
-084 - TCP chat program with basic encryption (XOR).
+- [] 083 - Simple roguelike. Mega chapeau for multiplayer over LAN..
 
-085 - Incremental economy simulator (Look up Time of Exploration) - https://play.google.com/store/apps/details?id=d.android.settlers1.
+- [] 084 - TCP chat program with basic encryption (XOR).
 
-086 - Encryption / Decryption hiding text in an image.
+- [] 085 - Incremental economy simulator (Look up Time of Exploration) - https://play.google.com/store/apps/details?id=d.android.settlers1.
 
-087 - Calculate Pascal's triangle - http://en.wikipedia.org/wiki/Pascal's_triangle.
+- [] 086 - Encryption / Decryption hiding text in an image.
 
-088 - Sine wave generator from pseudorandom numbers.
+- [] 087 - Calculate Pascal's triangle - http://en.wikipedia.org/wiki/Pascal's_triangle.
 
-089 - Pacman clone with ghost AI.
+- [] 088 - Sine wave generator from pseudorandom numbers.
 
-090 - Flappy Birds clone.
+- [] 089 - Pacman clone with ghost AI.
 
-091 - Fast Fourier Transformation - http://en.wikipedia.org/wiki/Fourier_transform.
+- [] 090 - Flappy Birds clone.
 
-092 - Graphical digital clock (GUI) (Yes, the image has this twice).
+- [] 091 - Fast Fourier Transformation - http://en.wikipedia.org/wiki/Fourier_transform.
 
-093 - Binary search - http://en.wikipedia.org/wiki/Binary_search.
+- [] 092 - Graphical digital clock (GUI) (Yes, the image has this twice).
 
-094 - Nintendo Oil Panic - http://www.mariowiki.com/Oil_Panic.
+- [] 093 - Binary search - http://en.wikipedia.org/wiki/Binary_search.
 
-095 - Generate the Sierpinski Triangle - http://en.wikipedia.org/wiki/Sierpinski_triangle.
+- [] 094 - Nintendo Oil Panic - http://www.mariowiki.com/Oil_Panic.
 
-096 - Calculate the Dot and Cross of two vectors - http://en.wikipedia.org/wiki/Cross_product.
+- [] 095 - Generate the Sierpinski Triangle - http://en.wikipedia.org/wiki/Sierpinski_triangle.
 
-097 - Little Man computer simulator - http://en.wikipedia.org/wiki/Little_man_computer.
+- [] 096 - Calculate the Dot and Cross of two vectors - http://en.wikipedia.org/wiki/Cross_product.
 
-098 - Basic LISP interpreter.
+- [] 097 - Little Man computer simulator - http://en.wikipedia.org/wiki/Little_man_computer.
 
-099 - Hailstone sequence - http://en.wikipedia.org/wiki/Hailstone_sequence.
+- [] 098 - Basic LISP interpreter.
+
+- [] 099 - Hailstone sequence - http://en.wikipedia.org/wiki/Hailstone_sequence.
