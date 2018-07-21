@@ -1,4 +1,4 @@
-## The following is a collection of 100 Apps & Programs that I plan on completing to solidify what I know and can show. 
+## The following is a collection of 100 Apps & Programs that I plan on completing to solidify what I know and can show.
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
@@ -6,25 +6,25 @@
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
-- [x] 000 - Name Generator - [x]
+- [x] 000 - Name Generator
 
-001 - Heads or Tails. - [x]
+- [x] 001 - Heads or Tails.
 
-002 - Temperature converter. - [x]
+- [x] 002 - Temperature converter.
 
-003 - Calculate your age in seconds.
+- [] 003 - Calculate your age in seconds.
 
-004 - Simple encryption / decryption.
+- [] 004 - Simple encryption / decryption.
 
-005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz.
+- [] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz.
 
-006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock.
+- [] 006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock.
 
-007 - Hangman.
+- [] 007 - Hangman.
 
-008 - Love calculator.
+- [] 008 - Love calculator.
 
-009 - Pseudorandom quote generator.
+- [] 009 - Pseudorandom quote generator.
 
 010 - Password generator.
 
@@ -63,7 +63,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 027 - Fibonacci sequence algorithm - http://en.wikipedia.org/wiki/Fibonacci_number.
 
 028 - Calcuate and print the factorial of 100.
-
+- [] 
 029 - Encryption connection. Implement all of the tools in the Rumkin collection: http://rumkin.com/tools/cipher.
 
 030 - Blackjack.
