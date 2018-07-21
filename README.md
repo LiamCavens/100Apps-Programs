@@ -2,13 +2,13 @@
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
-| Javascript  | 000              | 1                |
+| Javascript  | 001              | 2                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
-000 - Name Generator
+000 - Name Generator - [x]
 
-001 - Higher or Lower / Heads or Tails.
+001 - Heads or Tails. - [x]
 
 002 - Temperature converter.
 
