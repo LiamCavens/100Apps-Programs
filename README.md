@@ -2,7 +2,7 @@
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
-| Javascript  | 001              | 1                |
+| Javascript  | 000              | 1                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
