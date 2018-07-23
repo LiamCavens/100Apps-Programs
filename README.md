@@ -3,6 +3,7 @@
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
 | Javascript  | 004              | 5                |
+| Python      | 005              | 1                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
@@ -16,7 +17,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [x] 004 - Simple encryption / decryption.
 
-- [] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz.
+- [x] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz.
 
 - [] 006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock.
 
