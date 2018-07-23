@@ -3,23 +3,23 @@
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
 | Javascript  | 004              | 5                |
-| Python      | 005              | 1                |
+| Python      | 006              | 2                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
 
-- [x] 000 - Name Generator
+- [x] 000 - Name Generator - JS
 
-- [x] 001 - Heads or Tails.
+- [x] 001 - Heads or Tails. - JS
 
-- [x] 002 - Temperature converter.
+- [x] 002 - Temperature converter. - JS
 
-- [x] 003 - Calculate your age in seconds.
+- [x] 003 - Calculate your age in seconds. - JS
 
-- [x] 004 - Simple encryption / decryption.
+- [x] 004 - Simple encryption / decryption. - JS
 
-- [x] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz.
+- [x] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz. - Python (& Ruby)
 
-- [] 006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock.
+- [x] 006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock.
 
 - [] 007 - Hangman.
 
