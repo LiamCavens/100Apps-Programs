@@ -17,9 +17,9 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [x] 004 - Simple encryption / decryption. - JS
 
-- [x] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz. - Python (& Ruby)
+- [x] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz. - Python
 
-- [x] 006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock.
+- [x] 006 - Rock Paper Scissors. Python (& Ruby)
 
 - [] 007 - Hangman.
 
