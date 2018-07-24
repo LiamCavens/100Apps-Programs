@@ -19,7 +19,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [x] 005 - FizzBuzz - http://en.wikipedia.org/wiki/Fizz_buzz. - Python
 
-- [x] 006 - Rock Paper Scissors. Python (& Ruby)
+- [x] 006 - Rock Paper Scissors. - Python (& Ruby)
 
 - [] 007 - Hangman.
 
