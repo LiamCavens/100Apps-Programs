@@ -2,7 +2,7 @@
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
-| Javascript  | 004              | 5                |
+| Javascript  | 007              | 6                |
 | Python      | 006              | 2                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
@@ -21,7 +21,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [x] 006 - Rock Paper Scissors. - Python (& Ruby)
 
-- [] 007 - Hangman.
+- [x] 007 - Fibonacci sequence algorithm - http://en.wikipedia.org/wiki/Fibonacci_number. - Javascript
 
 - [] 008 - Love calculator.
 
@@ -61,7 +61,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [] 026 - Eulerian path - http://en.wikipedia.org/wiki/Eulerian_path.
 
-- [] 027 - Fibonacci sequence algorithm - http://en.wikipedia.org/wiki/Fibonacci_number.
+- [] 027 - Hangman.
 
 - [] 028 - Calcuate and print the factorial of 100.
 
