@@ -1,3 +1,12 @@
+function fibRecursive(num) {
+    if (num <= 1) return 1;
+
+    return (fibRecursive(num - 1) + fibRecursive(num - 2));
+}
+
+console.log(fibRecursive(10));
+
+
 function fibonacciSequence(num){
     let num1 = 1;
     let num2 = 1;
