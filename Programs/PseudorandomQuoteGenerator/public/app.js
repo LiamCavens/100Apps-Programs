@@ -12,3 +12,11 @@ const makeRequest = function(url, callbackFunction) {
     request.addEventListener("load", callbackFunction);
     request.send();
 }
+
+const requestComplete = function() {
+    if (this.status !== 200) return;
+
+    const quote = JSON.parse(this.response);
+    showQuote(quote);
+}
+
