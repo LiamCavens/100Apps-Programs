@@ -7,5 +7,8 @@ const app = function(){
 }
 
 const makeRequest = function(url, callbackFunction) {
-    const 
+    const request = new XMLHttpRequest();
+    request.open("GET", url);
+    request.addEventListener("load", callbackFunction);
+    request.send();
 }
