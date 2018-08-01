@@ -2,7 +2,7 @@
 
 | Languages   | Last_#_completed | Number_Completed |
 |-------------|:----------------:|:----------------:|
-| Javascript  | 007              | 6                |
+| Javascript  | 008              | 7                |
 | Python      | 006              | 2                |
 
 Credit for the list is by a user on reddit, the comment can be found here: https://www.reddit.com/r/learnprogramming/comments/218ca9/list_of_beginner_programs_that_can_be_done_in_any/cgbdhmf/
@@ -23,7 +23,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 - [x] 007 - Fibonacci sequence algorithm - http://en.wikipedia.org/wiki/Fibonacci_number. - Javascript
 
-- [] 008 - Love calculator.
+- [x] 008 - Love calculator. - Javascript
 
 - [] 009 - Pseudorandom quote generator.
 
