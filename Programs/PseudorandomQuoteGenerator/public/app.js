@@ -20,3 +20,9 @@ const requestComplete = function() {
     showQuote(quote);
 }
 
+const showQuote = function(quote) {
+    const quoteBox = document,querySelector('#quote-box');
+    quoteBox.textContent = `${quote}`
+}
+
+const handleOptionCLick
