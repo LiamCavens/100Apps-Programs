@@ -2,8 +2,6 @@ const app = function(){
     const url = "http://ron-swanson-quotes.herokuapp.com/v2/quotes";
     makeRequest(url, requestComplete);
 
-    const newQuote = document.querySelector('button');
-    newQuote.addEventListener("click", handleOptionCLick);
 }
 
 const makeRequest = function(url, callbackFunction) {
@@ -21,8 +19,8 @@ const requestComplete = function() {
 }
 
 const showQuote = function(quote) {
-    const quoteBox = document,querySelector('#quote-box');
-    quoteBox.textContent = `${quote}`
+    const quoteLine = document.querySelector('#quote');
+    quoteLine.textContent = `${quote}`
 }
 
-const handleOptionCLick
+window.addEventListener('load', app);
